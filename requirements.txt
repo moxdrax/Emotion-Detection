@@ -1,2 +1,3 @@
 deepface
 mindpipe
+opencv-python
